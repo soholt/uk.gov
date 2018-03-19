@@ -1,1 +1,10 @@
 theme: jekyll-theme-time-machine
+
+#title: [The title of your site]
+#description: [A short description of your site's purpose]
+
+#show_downloads: true
+google_analytics: UA-1582160-15
+
+plugins:
+  - jekyll-feed
