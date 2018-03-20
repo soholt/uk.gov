@@ -10,7 +10,7 @@ layout: home
 > **Timothy Odofin, Prevention and Support Officer**<br/>
 > **SHIP Team, Lewisham Council**
 >
-> - [**Partial translation of the reply(updates soon)**](/lewisham/2018/03/14/support-officer-advice.html)
-> - [Full reply 20180214s184NotEligible.pdf](LewishamCouncil/Section184/20180214s184NotEligible.pdf)
+> - [**Partial translation of the reply(updates soon)**](/uk.gov/lewisham/2018/03/14/support-officer-advice.html)
+> - [Full reply 20180214s184NotEligible.pdf](/uk.gov/LewishamCouncil/Section184/20180214s184NotEligible.pdf)
 
 **Ask any student, if they think they would be exercising their rights, by taking to court malicious individual or organisation. My intention to work will be discussed later... Can not wait to see you Mr Timothy Odofin explaining all of this to ECJ**

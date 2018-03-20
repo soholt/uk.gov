@@ -31,11 +31,11 @@ meta: "Springfield"
 **Ask any student, if they think they would be exercising their rights, by taking to court malicious individual or organisation. My intention to work will be discussed later... Can not wait to see you Mr Timothy Odofin explaining all of this to ECJ**
 
 ## The council was asked to reconsider on this letter, section 136 of the mental health act
-![No mention](/LewishamCouncil/Section184/20171108ReconsiderS188AndMentalHealthS136.jpg)
+![No mention](/uk.gov/LewishamCouncil/Section184/20171108ReconsiderS188AndMentalHealthS136.jpg)
 **No mention of any of the above. Is Lewisham asking for more blood? I am not afraid to admit in public that I cut myself. Keep on pushing me, just keep on pushing**
 
-[Full reply to the above letter 20180214s184NotEligible.pdf](/LewishamCouncil/Section184/20180214s184NotEligible.pdf)
+[Full reply to the above letter 20180214s184NotEligible.pdf](/uk.gov/LewishamCouncil/Section184/20180214s184NotEligible.pdf)
 
-[Reply to Mr Timothy Odofin](/lewisham/2018/03/16/reply-to-mr-timothy.html)
+[Reply to Mr Timothy Odofin](/uk.gov/lewisham/2018/03/16/reply-to-mr-timothy.html)
 
-[back](/)
+[back](/uk.gov/)
