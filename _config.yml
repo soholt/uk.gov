@@ -3,8 +3,21 @@ theme: jekyll-theme-time-machine
 #title: [The title of your site]
 #description: [A short description of your site's purpose]
 
-#show_downloads: true
+show_downloads: true
+github:
+  tar_url: https://github.com/soholt/uk.gov/archive/master.tar.gz
+  zip_url: https://github.com/soholt/uk.gov/archive/master.zip
+
+github_username: soholt
+twitter_username: ginsoholt
+hackaday_username: neris
+
+
 google_analytics: UA-1582160-15
 
 plugins:
   - jekyll-feed
+  - jekyll-youtube
+  - jekyll-twitter-plugin
+
+exclude: _tmp, _drafts

@@ -1,3 +1,7 @@
 _site
 .sass-cache
+Gemfile.lock
 .jekyll-metadata
+.tweet-cache
+_tmp
+_drafts
