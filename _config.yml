@@ -18,6 +18,6 @@ google_analytics: UA-1582160-15
 plugins:
   - jekyll-feed
   - jekyll-youtube
-  - jekyll-twitter-plugin
+#  - jekyll-twitter-plugin
 
 exclude: _tmp, _drafts

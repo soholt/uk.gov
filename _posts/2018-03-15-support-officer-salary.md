@@ -15,8 +15,6 @@ Mr John Barker, Housing Options and Advice Service Manager, was forwarded the s1
 
 [Lewisham Council Pay Policy](http://councilmeetings.lewisham.gov.uk/documents/s54973/Pay%20Statement%2018%2019%20Appendix.pdf)
 
-<center>{% twitter "https://twitter.com/LewishamCouncil/status/961313538391379970" %}</center>
-
 ## Job Specification and requirements
 #### Housing Prevention and Support Officer
 - To prevent and resolve homelessness within the borough through the provision of confidential and impartial advice and information to customers approaching the Housing Needs Service about their housing rights and obligations under legislation and Council policy either in Council offices or other locations as required.
